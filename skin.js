@@ -1,5 +1,5 @@
 // Garden Gnome Software - Skin
-// Pano2VR 6.1.11/18043
+// Pano2VR 
 // Filename: simplex_v7.ggsk
 // Generated 2024-07-26T14:23:46
 
